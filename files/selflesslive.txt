@@ -50,11 +50,11 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR cyan][B]Live NetTV[/B][/COLOR] |</title>
+	<title>| [B]SVR.1[/B][COLOR cyan][B]Live NetTV[/B][/COLOR] |</title>
 <link>ignore</link>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
-   <externallink>plugin://script.module.livenettv.net/</externallink>
+   <externallink>ActivateWindow(10025,plugin://script.module.livenettv.net/,return)</externallink>
 	</item>
 </streaminginfo>
 
