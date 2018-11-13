@@ -3,10 +3,10 @@
 <streaminginfo>
 	<cname>number 00</cname>
 	<item>
-	<title>| [COLOR aqua][B] This WAS a free project for everyone to use by Altruistic[/B][/COLOR] |</title>
+	<title>| [COLOR white][B] This WAS a free project for everyone to use by Altruistic[/B][/COLOR] |</title>
 <link>ignore</link>
-<fanart>https://www.askideas.com/media/07/Thank-You-Goodbye.jpg</fanart>
-<thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
    <externallink>http://midnighttvstreams.ddnDDs.net:5050/get.php?username=adrian&amp;password=adrian&amp;typSe=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
@@ -16,10 +16,10 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR aqua][B] Follow him on Twitter @OptimumBliss [/B][/COLOR] |</title>
+	<title>| [COLOR white][B] Follow him on Twitter @OptimumBliss [/B][/COLOR] |</title>
 <link>ignore</link>
-<fanart>https://cdn.wccftech.com/wp-content/uploads/2018/02/Twitter.jpeg</fanart>
-<thumbnail>https://www.saydaily.com/.image/t_share/MTM0ODg3OTkwOTMyNTc1NTA2/screen-shot-2015-12-03-at-22820-pmpng.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
    <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
@@ -28,10 +28,10 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR aqua][B] SUBSCRIBE TO Optimum Bliss YOUtUBE CHANNEL [/B][/COLOR] |</title>
+	<title>| [COLOR white][B] SUBSCRIBE TO Optimum Bliss YOUtUBE CHANNEL [/B][/COLOR] |</title>
 <link>ignore</link>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/e/e5/YouTube-like_logo.png</fanart>
-<thumbnail>https://yt3.ggpht.com/a-/AN66SAx4Y38iz7KedoEjvtRWlOlRTZxREsFCHAnurA=s900-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
    <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -41,13 +41,13 @@
 	<item>
 	<title>| [COLOR white][B]I am Kodi Ghost I revived this addons Live content for the Kodi Community[/B][/COLOR] |</title>
 <link>ignore</link>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/e/e5/YouTube-like_logo.png</fanart>
-<thumbnail>https://yt3.ggpht.com/a-/AN66SAx4Y38iz7KedoEjvtRWlOlRTZxREsFCHAnurA=s900-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
    <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
-https://media.giphy.com/media/l4pT16gVCVvdIIiIg/giphy.gif
+
 
 
 
