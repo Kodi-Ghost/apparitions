@@ -14,13 +14,13 @@
             <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
         </dir>
 
-		<info compressed="false">https://github.com//plugins/addons.xml</info>
-		<checksum>https://github.com//plugins/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com//plugins</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/Kodi-Ghost/apparitions/master/plugins/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Kodi-Ghost/apparitions/master/plugins/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Kodi-Ghost/apparitions/master/plugins/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Repo - Home to </summary>
-		<description>Repo - Home to</description>
+		<summary>Kodi Ghost Repo - Home to Kodi Ghost Addons</summary>
+		<description>Kodi Ghost Repo - Home to Kodi Ghost Addons</description>
 		<platform>all</platform>
 	</extension>
 </addon>
