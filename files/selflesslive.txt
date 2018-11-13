@@ -49,12 +49,12 @@
 
 <streaminginfo>
 	<cname>number 01</cname>
-	<plugin>
+	<item>
 	<title>| [COLOR cyan][B]Live NetTV[/B][/COLOR] |</title>
 <link>plugin://script.module.livenettv.net/</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
-</plugin>	
+</item>	
 </streaminginfo>
 
 
