@@ -64,4 +64,11 @@
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
 
-script.module.mobdro
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .2 [COLOR cornflowerblue](SwiftStreamz)[COLOR green] (ONLINE)[/COLOR][/B]</title>
+<link>plugin://script.module.swiftstreamz</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/swiftstreamz.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+
