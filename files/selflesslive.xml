@@ -38,13 +38,13 @@
 
 <plugin>
 <title>[COLOR cyan][B]M[/COLOR][COLOR white]ovies[/COLOR][/B]</title>
-<link>plugin://plugin.video.ProjectCypher/?action=movieNavigator</link>
+<link>plugin://plugin.video.selfless/?action=movieNavigator</link>
 <thumbnail>http://cypher-media.com/cypher/images/movie.png</thumbnail>
 </plugin>
 
 <plugin>
 <title>[COLOR cyan][B]TV[/COLOR][COLOR white] Shows[/COLOR][/B]</title>
-<link>plugin://plugin.video.ProjectCypher/?action=tvNavigator</link>
+<link>plugin://plugin.video.selfless/?action=tvNavigator</link>
 <thumbnail>http://cypher-media.com/cypher/images/tvshows.png</thumbnail>
 </plugin>
 
