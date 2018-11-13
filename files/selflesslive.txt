@@ -49,13 +49,12 @@
 
 <streaminginfo>
 	<cname>number 01</cname>
-	<item>
+	<plugin>
 	<title>| [COLOR cyan][B]Live NetTV[/B][/COLOR] |</title>
-<link>http://ignore.me/sucker</link>
-<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<link>plugin://script.module.livenettv.net/</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
-   <externallink>plugin://script.module.livenettv.net/</externallink>
-	</item>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>	
 </streaminginfo>
 
 
