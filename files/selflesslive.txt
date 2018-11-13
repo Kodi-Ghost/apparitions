@@ -59,7 +59,15 @@
 </streaminginfo>
 
 
-
+<dir>
+    <title> [B]SVR.2[/B] [B][COLOR cyan]Tv[I][COLOR pink]Tap[/COLOR][/I][/B]</title>
+ <link>plugin://script.module.livenettv.net</link>
+ <animated_thumbnail>https://i.imgur.com/ohogCZh.gif</animated_thumbnail>
+<animated_fanart>https://i.imgur.com/iXZgS5p.gif</animated_fanart>
+	<thumbnail>https://i.imgur.com/qabPniS.png</thumbnail>
+	<fanart>https://i.imgur.com/isFc4nO.jpg</fanart>
+	<summary>[COLOR cyan]TapTv IPTV Apk Streams![/COLOR]</summary>
+  </dir>
 
 
 
