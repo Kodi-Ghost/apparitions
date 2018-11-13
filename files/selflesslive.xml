@@ -1,19 +1,6 @@
 <poster>WARNING YOU HAVE BEEN SEEN!</poster>
 <fanart></fanart>
 
-<dir>
-<name>[COLOR cyan][B]C[/COLOR][COLOR white]yphers VIP IPTV[/COLOR][/B]</name>
-<link>http://cypher-media.com/cypher/vip.xml</link>
-<thumbnail>http://cypher-media.com/cypher/images/icon1.png</thumbnail>
-<fanart>http://cypher-media.com/cypher/images/fanart.jpg</fanart>
-</dir>
-
-<plugin>
-<title>[COLOR cyan][B]M[/COLOR][COLOR white]ovies[/COLOR][/B]</title>
-<link>plugin://plugin.video.selfless/?action=movieNavigator</link>
-<thumbnail>http://cypher-media.com/cypher/images/movie.png</thumbnail>
-</plugin>
-
 <plugin>
 <title>| [COLOR white][B] This WAS a free project for everyone to use by Altruistic[/B][/COLOR] |</title>
 <link>plugin://plugin.video.selfless/</link>
@@ -36,28 +23,37 @@
 </plugin>
 
 <plugin>
-<title>| [COLOR white][B]..............I am Kodi Ghost..............[/B][/COLOR] |</title>
+<title>| [COLOR cyan][B]..............I am Kodi Ghost..............[/B][/COLOR] |</title>
 <link>plugin://plugin.video.selfless/</link>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
 </plugin>
 
 <plugin>
-<title>| [COLOR white][B]I revived this addons Live content for the Kodi Community[/B][/COLOR] |</title>
+<title>| [COLOR yellow][B]I revived this addons Live content for the Kodi Community[/B][/COLOR] |</title>
 <link>plugin://plugin.video.selfless/</link>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
 </plugin>
 
+<plugin>
+<title>[COLOR cyan][B]M[/COLOR][COLOR white]ovies[/COLOR][/B]</title>
+<link>plugin://plugin.video.ProjectCypher/?action=movieNavigator</link>
+<thumbnail>http://cypher-media.com/cypher/images/movie.png</thumbnail>
+</plugin>
 
-<dir>
-<title> [B]SVR.2[/B] [B][COLOR cyan]Tv[I][COLOR pink]Tap[/COLOR][/I][/B]</title>
+<plugin>
+<title>[COLOR cyan][B]TV[/COLOR][COLOR white] Shows[/COLOR][/B]</title>
+<link>plugin://plugin.video.ProjectCypher/?action=tvNavigator</link>
+<thumbnail>http://cypher-media.com/cypher/images/tvshows.png</thumbnail>
+</plugin>
+
+
+
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .1 [COLOR cornflowerblue](Net.tv)[COLOR green] (ONLINE)[/COLOR][/B]</title>
 <link>plugin://script.module.livenettv.net</link>
-<animated_thumbnail>https://i.imgur.com/ohogCZh.gif</animated_thumbnail>
-<animated_fanart>https://i.imgur.com/iXZgS5p.gif</animated_fanart>
-<thumbnail>https://i.imgur.com/qabPniS.png</thumbnail>
-<fanart>https://i.imgur.com/isFc4nO.jpg</fanart>
-  </dir>
-
-
+<thumbnail>http://cypher-media.com/cypher/images/icon1.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
 
