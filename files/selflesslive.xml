@@ -39,13 +39,13 @@
 <plugin>
 <title>[COLOR cyan][B]M[/COLOR][COLOR white]ovies[/COLOR][/B]</title>
 <link>plugin://plugin.video.selfless/?action=movieNavigator</link>
-<thumbnail>http://cypher-media.com/cypher/images/movie.png</thumbnail>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</thumbnail>
 </plugin>
 
 <plugin>
 <title>[COLOR cyan][B]TV[/COLOR][COLOR white] Shows[/COLOR][/B]</title>
 <link>plugin://plugin.video.selfless/?action=tvNavigator</link>
-<thumbnail>http://cypher-media.com/cypher/images/tvshows.png</thumbnail>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</thumbnail>
 </plugin>
 
 
@@ -53,7 +53,15 @@
 <plugin>
 <title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .1 [COLOR cornflowerblue](Net.tv)[COLOR green] (ONLINE)[/COLOR][/B]</title>
 <link>plugin://script.module.livenettv.net</link>
-<thumbnail>http://cypher-media.com/cypher/images/icon1.png</thumbnail>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/livenet.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
 
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .2 [COLOR cornflowerblue](Mobdro 1)[COLOR green] (ONLINE)[/COLOR][/B]</title>
+<link>plugin://script.module.mobdro</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/mobdro-icon.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+script.module.mobdro
