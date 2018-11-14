@@ -86,3 +86,10 @@
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/redbox.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
+
+<dir>
+<name>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .8 [COLOR cornflowerblue](USA NEWS)[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/Kodi-Ghost/apparitions/master/files/TVUS%20(1).m3u</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/redbox.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</dir>
