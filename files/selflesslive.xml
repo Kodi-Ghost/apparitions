@@ -39,52 +39,50 @@
 
 
 <plugin>
-<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .1 [COLOR cornflowerblue](Net.tv)[/COLOR][/B]</title>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .1 [COLOR] cornflowerblue](Net.tv)[/COLOR][/B]</title>
 <link>plugin://script.module.livenettv.net</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/livenet.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
-<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .2 [COLOR cornflowerblue](Mobdro 1)[/COLOR][/B]</title>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .2 [COLOR] cornflowerblue](Mobdro 1)[/COLOR][/B]</title>
 <link>plugin://script.module.mobdro</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/mobdro-icon.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
-<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .3 [COLOR cornflowerblue](Mobdro 2)[/COLOR][/B]</title>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .3 [COLOR] cornflowerblue](Mobdro 2)[/COLOR][/B]</title>
 <link>plugin://plugin.video.tvone1</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/mobdro-icon.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
-<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .4 [COLOR cornflowerblue](SwiftStreamz 1)[/COLOR][/B]</title>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .4 [COLOR] cornflowerblue](SwiftStreamz 1)[/COLOR][/B]</title>
 <link>plugin://script.module.swiftstreamz</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/swiftstreamz.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
-<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .5 [COLOR cornflowerblue](SwiftStreamz 2)[/COLOR][/B]</title>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .5 [COLOR] cornflowerblue](SwiftStreamz 2)[/COLOR][/B]</title>
 <link>plugin://plugin.video.tvone11</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/swiftstreamz.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
-<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .6 [COLOR cornflowerblue](TV TAP)[/B]</title>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .6 [COLOR] cornflowerblue](TV TAP)[/B]</title>
 <link>plugin://script.module.tt</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/TvTap.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
 
 <plugin>
-<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .7 [COLOR cornflowerblue](RedBox TV)[/COLOR][/B]</title>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .7 [COLOR] cornflowerblue](RedBox TV)[/COLOR][/B]</title>
 <link>plugin.video.tvone111</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/redbox.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
-
-
