@@ -81,7 +81,7 @@
 </plugin>
 
 <plugin>
-<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .7 [COLOR] cornflowerblue](RedBox TV)[/COLOR][/B]</title>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .7 [COLOR cornflowerblue](RedBox TV)[/COLOR][/B]</title>
 <link>plugin.video.tvone111</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/redbox.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
