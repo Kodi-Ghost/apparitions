@@ -29,10 +29,10 @@
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.pyxbmct" />
-		<import addon="script.module.urlresolver" version="4.0.05" />
-		<import addon="script.module.liveresolver" version="0.1.49" />
 		<import addon="script.selflesslive.artwork" />
 		<import addon="script.selflesslive.metadata" />
+		<import addon="script.module.urlresolver" version="4.0.05" />
+		<import addon="script.module.liveresolver" version="0.1.49" />
 		<import addon="script.module.livenettv.net" />
 		<import addon="script.module.mobdro" />
 		<import addon="script.module.swiftstreamz" />
