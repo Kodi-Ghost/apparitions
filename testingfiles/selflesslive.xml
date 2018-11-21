@@ -1,0 +1,88 @@
+<poster>WARNING YOU HAVE BEEN SEEN!</poster>
+<fanart></fanart>
+
+<plugin>
+<title>| [COLOR white][B] This WAS a free project for everyone to use by Altruistic[/B][/COLOR] |</title>
+<link>plugin://plugin.video.selfless/</link>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>| [COLOR white][B] Follow him on Twitter @OptimumBliss [/B][/COLOR] |</title>
+<link>plugin://plugin.video.selfless/</link>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>| [COLOR cyan][B]........... I am Kodi Ghost ...........[/B][/COLOR] |</title>
+<link>plugin://plugin.video.selfless/</link>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR white][B]Kodi Ghost:[/COLOR][COLOR lime] Movies[/COLOR][/B]</title>
+<link>plugin://plugin.video.exodus/?action=movieNavigator</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/movie.png</thumbnail>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR white][B]Kodi Ghost:[/COLOR][COLOR lime] TV Shows[/COLOR][/B]</title>
+<link>plugin://plugin.video.exodus/?action=tvNavigator</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/tvshows.png</thumbnail>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</thumbnail>
+</plugin>
+
+
+
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .1 [COLOR cornflowerblue](Net.tv)[/COLOR][/B]</title>
+<link>plugin://script.module.livenettv.net</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/livenet.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .2 [COLOR cornflowerblue](Mobdro)[/COLOR][/B]</title>
+<link>plugin://plugin.video.tvone1</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/mobdro-icon.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .3 [COLOR cornflowerblue](SwiftStreamz 1)[/COLOR][/B]</title>
+<link>plugin://script.module.swiftstreamz</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/swiftstreamz.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .4 [COLOR cornflowerblue](SwiftStreamz 2)[/COLOR][/B]</title>
+<link>plugin://plugin.video.tvone11</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/swiftstreamz.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .5 [COLOR cornflowerblue](TV TAP)[/COLOR][/B]</title>
+<link>plugin://script.module.tt</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/TvTap.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .6 [COLOR cornflowerblue](RedBox TV)[/COLOR][/B]</title>
+<link>plugin.video.tvone111</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/redbox.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</plugin>
+
+<dir>
+<name>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .7 [COLOR cornflowerblue](USA NEWS)[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/Kodi-Ghost/apparitions/master/files/TVUS%20(1).m3u</link>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/redbox.png</thumbnail>
+<fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
+</dir>
