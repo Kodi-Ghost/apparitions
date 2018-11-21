@@ -24,14 +24,14 @@
 
 <plugin>
 <title>[COLOR white][B]Kodi Ghost:[/COLOR][COLOR lime] Movies[/COLOR][/B]</title>
-<link>plugin://plugin.video.exodus/?action=movieNavigator</link>
+<link>plugin://plugin.video.selfless/?action=movieNavigator</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/movie.png</thumbnail>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</thumbnail>
 </plugin>
 
 <plugin>
 <title>[COLOR white][B]Kodi Ghost:[/COLOR][COLOR lime] TV Shows[/COLOR][/B]</title>
-<link>plugin://plugin.video.exodus/?action=tvNavigator</link>
+<link>plugin://plugin.video.selfless/?action=tvNavigator</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/tvshows.png</thumbnail>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</thumbnail>
 </plugin>
