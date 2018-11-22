@@ -61,7 +61,7 @@
 	</extension>
 </addon>
 
-<addon id="script.selflesslive.artwork" version="1.0.1" name="Selfless Live Artwork" provider-name="Kodi Ghost">
+<addon id="script.selflesslive.artwork" version="1.0.2" name="Selfless Live Artwork" provider-name="Kodi Ghost">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
@@ -73,7 +73,7 @@
 	</extension>
 </addon>
 
-<addon id="script.selflesslive.metadata" version="1.0.1" name="Selfless Live Metadata" provider-name="Kodi Ghost">
+<addon id="script.selflesslive.metadata" version="1.0.2" name="Selfless Live Metadata" provider-name="Kodi Ghost">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
