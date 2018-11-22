@@ -1,3 +1,5 @@
+Version 2.4
+    Added Holidays Section, Added new and extra sections to Playlists
 Version 2.3
     Code Clean up, Networks working again, and Movie people search
 Version 2.2
