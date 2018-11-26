@@ -75,7 +75,7 @@
 
 <plugin>
 <title>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .6 [COLOR cornflowerblue](RedBox TV)a[/COLOR][/B]</title>
-<plugin>ActivateWindow(10025,plugin://plugin.video.tvone111/,return)</plugin>
+<link>plugin://plugin.video.tvone111</link>
 <thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/redbox.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </plugin>
@@ -83,6 +83,6 @@
 <dir>
 <name>[COLOR cyan][B]I[/COLOR][COLOR white]PTV SVR .7 [COLOR cornflowerblue](USA NEWS)[/COLOR][/B]</name>
 <link>https://raw.githubusercontent.com/Kodi-Ghost/apparitions/master/files/TVUS%20(1).m3u</link>
-<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/redbox.png</thumbnail>
+<thumbnail>https://github.com/Kodi-Ghost/apparitions/raw/master/files/USA.png</thumbnail>
 <fanart>https://github.com/Kodi-Ghost/apparitions/raw/master/files/fanart.jpg</fanart>
 </dir>
