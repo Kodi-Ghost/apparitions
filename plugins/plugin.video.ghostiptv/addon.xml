@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.ghostiptv" name="Kodi Ghost IPTV" version="1.0" provider-name="Kodi Ghost">
+	<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="init.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Kodi Ghost IPTV</summary>
+    <description lang="en">Kodi Ghost IPTV</description>
+	<disclaimer lang="en">Kodi Ghost IPTV</disclaimer>
+		<platform>all</platform>
+		<forum>-</forum>
+		<website>-</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshots/screen1.jpg</screenshot>
+		</assets>
+		<news></news>
+	</extension>
+</addon>
