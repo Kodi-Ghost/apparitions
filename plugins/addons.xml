@@ -303,4 +303,31 @@
 	</extension>
 </addon>
 
+<addon id="plugin.video.ghostrlsbb" version="1.0.0" name="Ghost ReleaseBB" provider-name="Kodi Ghost">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common" version="2.1.1"/>
+    <import addon="script.module.resolveurl" version="5.0.1"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="script.module.requests" version="2.19.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="ghostrlsbb.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Browse ReleaseBB</summary>
+    <description>[COLOR white]Stream a wide selection of scene release movies and Tv shows from releaseBB.... [COLOR red][B][I]YOU will need a real-debrid or a alldebrid account for this add-on[/B][/I][/COLOR]</description>
+    <platform>all</platform>
+    <disclaimer lang="en">All the movies on this website are hosted on the third party sites and uploaded by other people. We are not responsible for any content that hosted on on the third-party sites. If you have any legal issues please contact appropriate video owners hosters.</disclaimer>
+    <website></website>
+    <twitter></twitter>
+    <repo></repo>
+    <news></news>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
 </addons>
